@@ -13,3 +13,6 @@ A simple todo list application built using React and Material-UI.
 - Mark todos as completed by clicking the checkbox next to each todo.
 - Remove a todo by clicking the delete icon next to it.
 - Your todo list is automatically saved in your browser's local storage, so your todos will persist even after you close the browser.
+
+
+<img width="514" alt="Screenshot 2023-10-11 at 16 51 58" src="https://github.com/ildizsigrai/react-Todo-app/assets/128381088/e7476f71-6faf-4cfd-9272-4eb01328c0c8">
